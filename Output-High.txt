@@ -1,0 +1,188 @@
+						***FOR HIGH LOAD***
+New Call: Number 1 Time= 1 Cell=1 Duration= 105 Accepted  Channel= 1 SIR= 35dB
+Interferers:  None
+New Call: Number 2 Time= 2 Cell=4 Duration= 60 Accepted  Channel= 11 SIR= 35dB
+Interferers:  None
+New Call: Number 3 Time= 3 Cell=7 Duration= 160 Accepted  Channel= 6 SIR= 35dB
+Interferers:  None
+New Call: Number 4 Time= 4 Cell=4 Duration= 55 Accepted  Channel= 12 SIR= 35dB
+Interferers:  None
+New Call: Number 5 Time= 4 Cell=2 Duration= 80 Accepted  Channel= 7 SIR= 35dB
+Interferers:  None
+New Call: Number 6 Time= 5 Cell=7 Duration= 45 Accepted  Channel= 8 SIR= 35dB
+Interferers:  None
+New Call: Number 7 Time= 5 Cell=2 Duration= 135 Accepted  Channel= 9 SIR= 35dB
+Interferers:  None
+New Call: Number 8 Time= 5 Cell=9 Duration= 60 Accepted  Channel= 2 SIR= 35dB
+Interferers:  None
+New Call: Number 9 Time= 6 Cell=5 Duration= 45 Accepted  Channel= 10 SIR= 35dB
+Interferers:  None
+New Call: Number 10 Time= 8 Cell=4 Duration= 35 Accepted  Channel= 13 SIR= 35dB
+Interferers:  None
+New Call: Number 11 Time= 8 Cell=1 Duration= 145 Accepted  Channel= 3 SIR= 35dB
+Interferers:  None
+New Call: Number 12 Time= 8 Cell=9 Duration= 50 Accepted  Channel= 4 SIR= 35dB
+Interferers:  None
+New Call: Number 13 Time= 8 Cell=2 Duration= 25 Accepted  Channel= 6 SIR= 24dB
+Interferers: 7/4000
+New Call: Number 14 Time= 9 Cell=1 Duration= 45 Accepted  Channel= 5 SIR= 35dB
+Interferers:  None
+New Call: Number 15 Time= 9 Cell=7 Duration= 150 Accepted  Channel= 7 SIR= 24dB
+Interferers: 2/4000
+New Call: Number 16 Time= 11 Cell=4 Duration= 75 Accepted  Channel= 14 SIR= 35dB
+Interferers:  None
+New Call: Number 17 Time= 11 Cell=2 Duration= 25 Accepted  Channel= 8 SIR= 24dB
+Interferers: 7/4000
+New Call: Number 18 Time= 11 Cell=7 Duration= 50 Accepted  Channel= 9 SIR= 24dB
+Interferers: 2/4000
+New Call: Number 19 Time= 12 Cell=8 Duration= 85 Accepted  Channel= 15 SIR= 35dB
+Interferers:  None
+New Call: Number 20 Time= 12 Cell=7 Duration= 105 Accepted  Channel= 10 SIR= 24dB
+Interferers: 5/4000
+New Call: Number 21 Time= 14 Cell= 5 Duration= 70 Rejected 
+ 6/Low SIR=21dB 7/Low SIR=21dB 8/Low SIR=21dB 9/Low SIR=21dB 10/In Use
+New Call: Number 22 Time= 14 Cell=4 Duration= 95 Accepted  Channel= 15 SIR= 24dB
+Interferers: 8/4000
+New Call: Number 23 Time= 14 Cell= 7 Duration= 40 Rejected 
+ 6/In Use 7/In Use 8/In Use 9/In Use 10/In Use
+New Call: Number 24 Time= 15 Cell=9 Duration= 75 Accepted  Channel= 1 SIR= 31dB
+Interferers: 1/6000
+New Call: Number 25 Time= 15 Cell= 4 Duration= 40 Rejected 
+ 11/In Use 12/In Use 13/In Use 14/In Use 15/In Use
+New Call: Number 26 Time= 15 Cell= 7 Duration= 110 Rejected 
+ 6/In Use 7/In Use 8/In Use 9/In Use 10/In Use
+New Call: Number 27 Time= 17 Cell=8 Duration= 85 Accepted  Channel= 11 SIR= 24dB
+Interferers: 4/4000
+New Call: Number 28 Time= 17 Cell= 4 Duration= 45 Rejected 
+ 11/In Use 12/In Use 13/In Use 14/In Use 15/In Use
+New Call: Number 29 Time= 19 Cell=1 Duration= 95 Accepted  Channel= 2 SIR= 31dB
+Interferers: 9/6000
+New Call: Number 30 Time= 20 Cell=3 Duration= 125 Accepted  Channel= 12 SIR= 24dB
+Interferers: 4/4000
+Disconnect: Number 1 Start time= 33 End time= 58 Cell= 2 Duration= 25 Channel= 6
+Disconnect: Number 2 Start time= 36 End time= 61 Cell= 2 Duration= 25 Channel= 8
+Disconnect: Number 3 Start time= 43 End time= 78 Cell= 4 Duration= 35 Channel= 13
+Disconnect: Number 4 Start time= 50 End time= 95 Cell= 7 Duration= 45 Channel= 8
+Disconnect: Number 5 Start time= 51 End time= 96 Cell= 5 Duration= 45 Channel= 10
+Disconnect: Number 6 Start time= 54 End time= 99 Cell= 1 Duration= 45 Channel= 5
+Disconnect: Number 7 Start time= 58 End time= 108 Cell= 9 Duration= 50 Channel= 4
+Disconnect: Number 8 Start time= 59 End time= 114 Cell= 4 Duration= 55 Channel= 12
+New Call: Number 31 Time= 60 Cell=9 Duration= 85 Accepted  Channel= 4 SIR= 35dB
+Interferers:  None
+Disconnect: Number 9 Start time= 61 End time= 111 Cell= 7 Duration= 50 Channel= 9
+Disconnect: Number 10 Start time= 62 End time= 122 Cell= 4 Duration= 60 Channel= 11
+New Call: Number 32 Time= 65 Cell=2 Duration= 85 Accepted  Channel= 8 SIR= 35dB
+Interferers:  None
+New Call: Number 33 Time= 65 Cell=3 Duration= 55 Accepted  Channel= 13 SIR= 35dB
+Interferers:  None
+Disconnect: Number 11 Start time= 65 End time= 125 Cell= 9 Duration= 60 Channel= 2
+New Call: Number 34 Time= 70 Cell=5 Duration= 85 Accepted  Channel= 6 SIR= 24dB
+Interferers: 7/4000
+New Call: Number 35 Time= 80 Cell=2 Duration= 75 Accepted  Channel= 10 SIR= 24dB
+Interferers: 7/4000
+New Call: Number 36 Time= 80 Cell=6 Duration= 90 Accepted  Channel= 5 SIR= 35dB
+Interferers:  None
+Disconnect: Number 12 Start time= 84 End time= 164 Cell= 2 Duration= 80 Channel= 7
+New Call: Number 37 Time= 85 Cell=9 Duration= 80 Accepted  Channel= 2 SIR= 31dB
+Interferers: 1/6000
+New Call: Number 38 Time= 85 Cell=4 Duration= 75 Accepted  Channel= 11 SIR= 24dB
+Interferers: 8/4000
+New Call: Number 39 Time= 86 Cell=4 Duration= 45 Accepted  Channel= 12 SIR= 24dB
+Interferers: 3/4000
+New Call: Number 40 Time= 86 Cell=5 Duration= 120 Accepted  Channel= 7 SIR= 24dB
+Interferers: 7/4000
+Disconnect: Number 13 Start time= 86 End time= 161 Cell= 4 Duration= 75 Channel= 14
+New Call: Number 41 Time= 88 Cell=3 Duration= 70 Accepted  Channel= 14 SIR= 35dB
+Interferers:  None
+New Call: Number 42 Time= 88 Cell=7 Duration= 80 Accepted  Channel= 8 SIR= 24dB
+Interferers: 2/4000
+New Call: Number 43 Time= 88 Cell=6 Duration= 90 Accepted  Channel= 3 SIR= 24dB
+Interferers: 1/4000
+New Call: Number 44 Time= 89 Cell= 3 Duration= 155 Rejected 
+ 11/Low SIR=21dB 12/In Use 13/In Use 14/In Use 15/Low SIR=21dB
+New Call: Number 45 Time= 89 Cell=8 Duration= 70 Accepted  Channel= 13 SIR= 24dB
+Interferers: 3/4000
+Disconnect: Number 14 Start time= 90 End time= 165 Cell= 9 Duration= 75 Channel= 1
+Disconnect: Number 15 Start time= 97 End time= 182 Cell= 8 Duration= 85 Channel= 15
+Disconnect: Number 16 Start time= 102 End time= 187 Cell= 8 Duration= 85 Channel= 11
+Disconnect: Number 17 Start time= 106 End time= 211 Cell= 1 Duration= 105 Channel= 1
+Disconnect: Number 18 Start time= 109 End time= 204 Cell= 4 Duration= 95 Channel= 15
+Disconnect: Number 19 Start time= 114 End time= 209 Cell= 1 Duration= 95 Channel= 2
+Disconnect: Number 20 Start time= 117 End time= 222 Cell= 7 Duration= 105 Channel= 10
+New Call: Number 46 Time= 120 Cell=7 Duration= 125 Accepted  Channel= 9 SIR= 24dB
+Interferers: 2/4000
+Disconnect: Number 21 Start time= 120 End time= 175 Cell= 3 Duration= 55 Channel= 13
+New Call: Number 47 Time= 125 Cell= 2 Duration= 95 Rejected 
+ 6/Low SIR=21dB 7/Low SIR=21dB 8/In Use 9/In Use 10/In Use
+New Call: Number 48 Time= 130 Cell=5 Duration= 75 Accepted  Channel= 10 SIR= 24dB
+Interferers: 2/4000
+New Call: Number 49 Time= 130 Cell= 5 Duration= 115 Rejected 
+ 6/In Use 7/In Use 8/Low SIR=21dB 9/Low SIR=21dB 10/In Use
+Disconnect: Number 22 Start time= 131 End time= 176 Cell= 4 Duration= 45 Channel= 12
+New Call: Number 50 Time= 135 Cell=3 Duration= 80 Accepted  Channel= 15 SIR= 35dB
+Interferers:  None
+New Call: Number 51 Time= 136 Cell=1 Duration= 95 Accepted  Channel= 1 SIR= 35dB
+Interferers:  None
+New Call: Number 52 Time= 136 Cell= 2 Duration= 155 Rejected 
+ 6/Low SIR=21dB 7/Low SIR=21dB 8/In Use 9/In Use 10/In Use
+New Call: Number 53 Time= 139 Cell=8 Duration= 145 Accepted  Channel= 11 SIR= 24dB
+Interferers: 4/4000
+New Call: Number 54 Time= 140 Cell=9 Duration= 30 Accepted  Channel= 1 SIR= 31dB
+Interferers: 1/6000
+New Call: Number 55 Time= 140 Cell=9 Duration= 65 Accepted  Channel= 5 SIR= 24dB
+Interferers: 6/4000
+New Call: Number 56 Time= 140 Cell=8 Duration= 70 Accepted  Channel= 12 SIR= 24dB
+Interferers: 3/4000
+Disconnect: Number 23 Start time= 140 End time= 275 Cell= 2 Duration= 135 Channel= 9
+New Call: Number 57 Time= 142 Cell=3 Duration= 25 Accepted  Channel= 13 SIR= 24dB
+Interferers: 8/4000
+New Call: Number 58 Time= 145 Cell=1 Duration= 135 Accepted  Channel= 2 SIR= 31dB
+Interferers: 9/6000
+New Call: Number 59 Time= 145 Cell=4 Duration= 50 Accepted  Channel= 14 SIR= 24dB
+Interferers: 3/4000
+Disconnect: Number 24 Start time= 145 End time= 270 Cell= 3 Duration= 125 Channel= 12
+Disconnect: Number 25 Start time= 145 End time= 230 Cell= 9 Duration= 85 Channel= 4
+New Call: Number 60 Time= 150 Cell=4 Duration= 75 Accepted  Channel= 12 SIR= 24dB
+Interferers: 8/4000
+Disconnect: Number 26 Start time= 150 End time= 235 Cell= 2 Duration= 85 Channel= 8
+Disconnect: Number 27 Start time= 153 End time= 298 Cell= 1 Duration= 145 Channel= 3
+Disconnect: Number 28 Start time= 155 End time= 240 Cell= 5 Duration= 85 Channel= 6
+Disconnect: Number 29 Start time= 155 End time= 230 Cell= 2 Duration= 75 Channel= 10
+Disconnect: Number 30 Start time= 158 End time= 228 Cell= 3 Duration= 70 Channel= 14
+Disconnect: Number 31 Start time= 159 End time= 309 Cell= 7 Duration= 150 Channel= 7
+Disconnect: Number 32 Start time= 159 End time= 229 Cell= 8 Duration= 70 Channel= 13
+New Call: Number 61 Time= 160 Cell=1 Duration= 60 Accepted  Channel= 4 SIR= 35dB
+Interferers:  None
+Disconnect: Number 33 Start time= 160 End time= 235 Cell= 4 Duration= 75 Channel= 11
+Disconnect: Number 34 Start time= 163 End time= 323 Cell= 7 Duration= 160 Channel= 6
+New Call: Number 62 Time= 165 Cell=9 Duration= 45 Accepted  Channel= 4 SIR= 31dB
+Interferers: 1/6000
+Disconnect: Number 35 Start time= 165 End time= 245 Cell= 9 Duration= 80 Channel= 2
+Disconnect: Number 36 Start time= 167 End time= 192 Cell= 3 Duration= 25 Channel= 13
+Disconnect: Number 37 Start time= 168 End time= 248 Cell= 7 Duration= 80 Channel= 8
+New Call: Number 63 Time= 170 Cell=6 Duration= 30 Accepted  Channel= 2 SIR= 24dB
+Interferers: 1/4000
+Disconnect: Number 38 Start time= 170 End time= 260 Cell= 6 Duration= 90 Channel= 5
+Disconnect: Number 39 Start time= 170 End time= 200 Cell= 9 Duration= 30 Channel= 1
+New Call: Number 64 Time= 175 Cell=2 Duration= 80 Accepted  Channel= 6 SIR= 35dB
+Interferers:  None
+Disconnect: Number 40 Start time= 178 End time= 268 Cell= 6 Duration= 90 Channel= 3
+New Call: Number 65 Time= 180 Cell=7 Duration= 30 Accepted  Channel= 8 SIR= 35dB
+Interferers:  None
+Disconnect: Number 41 Start time= 195 End time= 245 Cell= 4 Duration= 50 Channel= 14
+Disconnect: Number 42 Start time= 200 End time= 230 Cell= 6 Duration= 30 Channel= 2
+Disconnect: Number 43 Start time= 205 End time= 280 Cell= 5 Duration= 75 Channel= 10
+Disconnect: Number 44 Start time= 205 End time= 270 Cell= 9 Duration= 65 Channel= 5
+Disconnect: Number 45 Start time= 206 End time= 326 Cell= 5 Duration= 120 Channel= 7
+Disconnect: Number 46 Start time= 210 End time= 280 Cell= 8 Duration= 70 Channel= 12
+Disconnect: Number 47 Start time= 210 End time= 255 Cell= 9 Duration= 45 Channel= 4
+Disconnect: Number 48 Start time= 210 End time= 240 Cell= 7 Duration= 30 Channel= 8
+Disconnect: Number 49 Start time= 215 End time= 295 Cell= 3 Duration= 80 Channel= 15
+Disconnect: Number 50 Start time= 220 End time= 280 Cell= 1 Duration= 60 Channel= 4
+Disconnect: Number 51 Start time= 225 End time= 300 Cell= 4 Duration= 75 Channel= 12
+Disconnect: Number 52 Start time= 231 End time= 326 Cell= 1 Duration= 95 Channel= 1
+Disconnect: Number 53 Start time= 245 End time= 370 Cell= 7 Duration= 125 Channel= 9
+Disconnect: Number 54 Start time= 255 End time= 335 Cell= 2 Duration= 80 Channel= 6
+Disconnect: Number 55 Start time= 280 End time= 415 Cell= 1 Duration= 135 Channel= 2
+Disconnect: Number 56 Start time= 284 End time= 429 Cell= 8 Duration= 145 Channel= 11
+Totals: 56 calls accepted, 9 calls rejected, 13%GOS, Average SIR=29.66
